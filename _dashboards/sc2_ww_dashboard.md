@@ -43,7 +43,7 @@ The accuracy of wastewater testing is affected by sewershed-specific wastewater 
 
 The Proportion Report displays the relative abundance, or proportion, of the COVID-19 variant groups (described below) over time in wastewater. Variant groups are represented by different colors. The group "Others" includes the variants that were not classified as any of the specific variant groups.
 
-*By default, the chart displays the average relative abundance across all sequenced samples. Use the drop-down menu to limit the view to a specific community. Mouse over the bars to display more information. Each bar reflects a 2-week period of time.*
+*By default, the chart displays the average relative abundance across all sequenced samples. By clicking on "SARS-CoV-2 wastewater level", bar lengths will reflect the bi-weekly averaged SARS-CoV-2 levels in wastewater. See the [Wisconsin Department of Health Services dashboard]([https://nextstrain.org/](https://www.dhs.wisconsin.gov/covid-19/wastewater.htm)) for more details about the wastewater level calculation. Use the drop-down menu to limit the view to a specific community. Mouse over the bars to display more information. Each bar reflects a 2-week period of time.*
 
 <br>
 <br>
@@ -54,7 +54,7 @@ The Proportion Report displays the relative abundance, or proportion, of the COV
 
 The Prevalence Report shows by default only the most abundant COVID-19 variant group over time for each community participating in the wastewater surveillance system. Variant groups are represented by different colors.
 
-*Use the drop-down menu to limit the view to a specific variant group. In the resulting view, the color gradient reflects the relative abundance of the selected variant group in wastewater from 0% to* *100%. Mouse over the chart to reveal more information. Each box reflects 1-week of data.*
+*Use the drop-down menu to limit the view to a specific variant group. In the resulting view, the color gradient reflects the relative abundance of the selected variant group in wastewater from 0% to* *100%. Mouse over the chart to reveal more information. Use the slider function below the graph to select the desired date range (one year by default). Each box reflects 1-week of data.*
 
 <br>
 <br>
